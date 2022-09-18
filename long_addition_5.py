@@ -6,7 +6,7 @@ Refer to long_addition_1.py for further information on adding in python:
 https://github.com/sophisticatedprimate/long_addition_1/blob/main/long_addition_1.py
 
 To run the program: 
-    1. Open a terminal on a computer with python 3 installed (works with v2 as well)
+    1. Open a terminal on a computer with python 3 installed
     2. Navigate to a directory containing this file (long_addition_5.py)
     3. Run the program with the following command: python3 long_addition_5.py
     4. A print out of the sums should appear after the cursor
@@ -163,5 +163,5 @@ Contact information
 General Queries: admin@sophisticatedprimate.com
 Report errors, bugs, and problems at:
     email:  bug@sophisticatedprimate.com
-    github: https://github.com/sophisticatedprimate/long_addition_1/issues
+    github: https://github.com/sophisticatedprimate/long_addition_5/issues
 """
